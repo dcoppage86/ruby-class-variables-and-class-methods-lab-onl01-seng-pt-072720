@@ -4,7 +4,7 @@ describe "Song" do
 
   let!(:lucifer) { Song.new("Lucifer", "Jay-Z", "rap" ) }
   let!(:ninety_nine_problems) { Song.new("99 Problems", "Jay-Z", "rap") }
-  let!(:hit_me) { Brittany Spears",  }
+  let!(:hit_me) { ("hit me baby one more time", "Brittany Spears", "pop" ) }
  
   after(:each) do 
     Song.class_variable_set(:@@artists, [])
