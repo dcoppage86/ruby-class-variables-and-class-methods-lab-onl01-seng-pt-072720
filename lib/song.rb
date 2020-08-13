@@ -7,6 +7,6 @@ class Song
   @@artists = [ ]
   
   def initialize(name, artist, genre)
-    @@
+    @@name
   
 end
