@@ -19,6 +19,8 @@ class Song
     @@song_count
   end
   
+  def self.uniq 
+    @@
   
     
   
