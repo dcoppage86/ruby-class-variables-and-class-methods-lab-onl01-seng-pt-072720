@@ -6,4 +6,7 @@ class Song
   @@genres = [ ]
   @@artists = [ ]
   
+  def initialize(name, artist, genre)
+    @@
+  
 end
