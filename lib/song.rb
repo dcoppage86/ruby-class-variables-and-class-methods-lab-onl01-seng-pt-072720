@@ -50,10 +50,7 @@ class Song
     end
     artist_count
   end
-  
-  
-  
-  
+
 end
 
 ninety_nine_problems = Song.new("Lucifer", "Jay-Z", "rap" )
