@@ -55,5 +55,5 @@ end
 
 lucifer
 ninety_nine_problems = Song.new("Lucifer", "Jay-Z", "rap" )
-hit_me = Song.new("Brit")
+hit_me = Song.new("Brittany Spears", )
  
